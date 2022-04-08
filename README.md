@@ -7,19 +7,19 @@
 
 - **多线程程序的使用**
 
-![pthread](E:\projects\select-poll-epoll\picture\pthread.png)
+![pthread](https://github.com/herui-ares/select-poll-epoll/blob/main/picture/pthread.png)
 
 - **select程序使用**
 
-![select](E:\projects\select-poll-epoll\picture\select.png)
+![select](https://github.com/herui-ares/select-poll-epoll/blob/main/picture/select.png)
 
 - **poll程序使用**
 
-![poll](E:\projects\select-poll-epoll\picture\poll.png)
+![poll](https://github.com/herui-ares/select-poll-epoll/blob/main/picture/poll.png)
 
 
 
 - **epoll程序的使用**
 
-![epoll](E:\projects\select-poll-epoll\picture\epoll.png)
+![epoll](https://github.com/herui-ares/select-poll-epoll/blob/main/picture/epoll.png)
 
